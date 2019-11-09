@@ -10,4 +10,4 @@ Kaggle Link - https://www.kaggle.com/c/titanic/overview
 * KNN Classification
 * Decision Trees
 * Random Forest
-* Gradient Boosting Classifiers
+* Gradient Boosting Classifier
